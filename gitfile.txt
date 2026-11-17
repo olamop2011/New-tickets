@@ -1,0 +1,7 @@
+This is a test git file for cohort 8. The expectation is that at the end of this lecture we would have 
+1. Refereshed our memory on the last class
+2. learn about git repository
+3. open a git reository
+4. push our code from the local repsoitory to the remote repositoy
+
+showing the head changes
